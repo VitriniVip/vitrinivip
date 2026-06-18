@@ -17,7 +17,7 @@ const LISTA_DE_PRODUTOS = [
     { 
         nome: "Lion Sleep*", 
         desc: "*Uma boa noite de sono é o primeiro passo para ter dias com mais energia, foco e bom humor. O Suplemento ideal para relaxamento, sono de qualidade e um bem estar revigorado para o dia seguinte.", 
-        img: "https://i.ibb.co/FL2WHryn/Produto-Lion-Sleep-Blog.png",
+        img: "https://i.ibb.co/9HXW24qf/Produto-Lion-Sleep-Blog.png",
         linkCompra: "https://app.monetizze.com.br/r/seu-link-aqui-2",
         fraseGrupo: "Antes R$ 157,00 | Agora : R$ 97,00 "
     },
@@ -28,26 +28,26 @@ const LISTA_DE_PRODUTOS = [
         linkCompra: "https://app.monetizze.com.br/r/seu-link-aqui-3",
         fraseGrupo: "Antes R$ 307,00 | Agora R$ 217,00 "
     },
-    { 
-        nome: "Dia dos Namorados Natura", 
-        desc: "Colonia Masculina + Sabonete Liquido Biografia Caminhos... Um kit perfeito para presentear a si mesmo ou alguem especial. O oleo de colonia traz um fragancia atemporal e sofisticada. O sabonete limpa e perfuma a pele, a textura em gel e espuma deixam o banho mais gostoso.", 
-        img: "https://i.ibb.co/QFDHDVTh/Promo1-Vitrini.png",
-        linkCompra: "https://www.minhaloja.natura.com/p/presente-dia-dos-namorados-natura-biografia-caminhos-masculino/NATBRA-242515?position=14&listTitle=search+results+list+showcase+-+Dia+dos+namorados&consultoria=vitrinivip&marca=natura",
-        fraseGrupo: "Antes R$ 244,90 | Agora R$ 169,90 "
+    {
+        nome: "Kit Creme Nutritivo e Body Splash Tododia Ameixa e Flor de Baunilha", 
+        desc: "Pele mais firme, ultramacia e perfumada com fragância autêntica e atraente. Nutrição Prebiótica que se adapta ao que sua pele precisa a cada dia. Acelera renovação celular para uma pele saudável e iluminada", 
+        img: "https://i.ibb.co/1GsgD3N3/Kit-creme-2-prod-Photoroom.png",
+        linkCompra: "https://www.minhaloja.natura.com/p/kit-creme-nutritivo-e-body-splash-tododia-ameixa-e-flor-de-baunilha-2-produtos/NATBRA-106019?position=6&listTitle=category+page+list+showcase+-+promocoes&consultoria=vitrinivip&marca=natura",
+        fraseGrupo: "Antes R$ 172,80 | Agora R$ 93,80 (-46%)"
     },
     { 
-        nome: "Dia dos Namorados 2 Natura", 
-        desc: "Deo colônia combina o toque amadeirado com notas frescas, ideal para momentos a dois e ocasiões especiais • tem alta durabilidade, com perfumação de até 8h na pele • produzido com álcool orgânico e vidro reciclado • cartucho com mensagens e recadinhos que trazem leveza e diversão ao dia a dia", 
-        img: "https://i.ibb.co/fzmYXMjk/Foto-de-Vitrini-Vip-1-1.png",
-        linkCompra: "https://www.minhaloja.natura.com/p/presente-dia-dos-namorados-humor-a-dois-masculino/NATBRA-242242?position=1&listTitle=search+results+list+showcase+-+Presentes+namorados+2+col%C3%B4nias+masculinas+75ml+&consultoria=vitrinivip&marca=natura",
-        fraseGrupo: "Antes R$ 232,00 | Agora R$ 169,90"
+        nome: "Kit Refil Desodorante Corporal Sr. N. (2 unidades)", 
+        desc: "Proteçâo e sensaçâo de frescor para o corpo todo. Protege contra os odores da transpiraçâo e mantém a hidrataçâo natural da pele. Produto sem sal de alumínio e embalagem refil mais economica e sustentável. Fragancia cítrica moderada.", 
+        img: "https://i.ibb.co/FT6PS11/Whats-App-Image-2026-06-17-at-11-43-52-Photoroom.png",
+        linkCompra: "https://www.minhaloja.natura.com/p/kit-refil-desodorante-corporal-sr-n-2-unidades/NATBRA-216462?position=24&listTitle=category+page+list+showcase+-+promocoes&consultoria=vitrinivip",
+        fraseGrupo: "Antes R$ 89,80 | Agora R$ 44,90"
     },
     { 
-        nome: "Dia dos Namorados 3 Natura",  
-        desc: "Um presente que faz pulsar o coracao e as emocoes - O deo colonia traz uma fragancia levemente aromatica uma otima opcao para dias quentes - O desodorante corporal protege contra odores da transpiracao e pode ser reaplicado ao longo do dia. - O necessarie complementa o presente: feita de algodao com toque macio, ela tem espaco interno amplo e as alcas laterais que facilitam o transporte.", 
-        img: "https://i.ibb.co/MDQVbvNn/Prod-img3-Photoroom.png",
-        linkCompra: "https://www.minhaloja.natura.com/p/presente-dia-dos-namorados-natura-kaiak-pulso-masculino-com-necessaire/NATBRA-242216?position=16&listTitle=search+results+list+showcase+-+Dia+dos+namorados&consultoria=vitrinivip&marca=natura",
-        fraseGrupo: "Antes R$ 321,80 | Agora R$ 209,90"
+        nome: "Kaiak Aero Masculino 100ml",  
+        desc: "Sinta o arrepio do vento do mar. Kaiak Aero  traz o encontro do vento com a água do mar, uma fragância moderna que revela a explosção refrescante das nota tônicas com as potências das notas verdes, como zimbro e ruibarbo, proporciona fresco e bem estar.", 
+        img: "https://i.ibb.co/wN0Q008x/Whats-App-Image-2026-06-17-at-14-02-41-Photoroom.png",
+        linkCompra: "https://www.minhaloja.natura.com/p/desodorante-colonia-kaiak-aero-masculino-100-ml/NATBRA-108404?position=12&listTitle=category+page+list+showcase+-+promocoes&marca=natura&consultoria=vitrinivip",
+        fraseGrupo: "Antes R$ 221,00 | Agora R$ 189,90  *Frete Grátis*"
     }
 ];
 
